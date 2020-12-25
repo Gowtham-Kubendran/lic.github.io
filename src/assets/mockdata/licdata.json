@@ -1,0 +1,164 @@
+[
+  {
+    "policytype": "Endowment Plans",
+    "description": "An endowment policy is a life insurance contract designed to pay a lump sum after a specific term or on death. ",
+    "plans": [
+      {
+        "name": "LIC's New Jeevan Anand",
+        "code": "915"
+      },
+      {
+        "name": "LIC's New Jeevan Labh",
+        "code": "936"
+      },
+      {
+        "name": "LIC's New Jeevan Lakshya",
+        "code": "933"
+      },
+      {
+        "name": "LIC's Aadhar Shila",
+        "code": "944"
+      },
+      {
+        "name": "LIC's Aadhar Stambh",
+        "code": "943"
+      },
+      {
+        "name": "LIC's Bima Bachat",
+        "code": "916"
+      },
+      {
+        "name": "LIC's New Endowment",
+        "code": "914"
+      },
+      {
+        "name": "LIC's SinglePremium Endowment Plan",
+        "code": "917"
+      }
+    ]
+  },
+  {
+    "policytype": "Whole life Plans",
+    "description": "insurance policy which is guaranteed to remain in force for the insured's entire lifetime, provided required premiums are paid, or to the maturity date.",
+    "plans": [
+      {
+        "name": "LIC's New Jeevan Umang",
+        "code": "945"
+      }
+    ]
+  },
+  {
+    "policytype": "Money Back Plans",
+    "description": "It provides life coverage during the term of the policy and the maturity benefits are paid in installments by way of survival benefits in every 5 years. ",
+    "plans": [
+      {
+        "name": "LIC's New Bima Shree",
+        "code": "948"
+      },
+      {
+        "name": "LIC's New Money Back 20 years",
+        "code": "920"
+      },
+      {
+        "name": "LIC's New Money Back 25 years",
+        "code": "921"
+      },
+      {
+        "name": "LIC's Jeevan Shiromani",
+        "code": "947"
+      }
+     ]
+  },
+  {
+    "policytype": "Term Plans",
+    "description": "It provides coverage at a fixed rate of payments for a limited period of time, the relevant term",
+    "plans": [
+      {
+        "name": "LIC's Tech Term",
+        "code": "854"
+      },
+      {
+        "name": "LIC's Jeevan Amar",
+        "code": "855"
+      }
+    ]
+  },
+  {
+    "policytype": "Health Plans",
+    "description": "An insurance that covers the whole or a part of the risk of a person incurring medical expenses, spreading the risk over numerous persons.",
+    "plans": [
+      {
+        "name": "LIC's Jeevan Arogya",
+        "code": "904"
+      },
+      {
+        "name": "LIC's Cancer Cover Plan",
+        "code": "905"
+      }
+     ]
+  },
+  {
+    "policytype": "Pension Plans",
+    "description": "A pension plan is a retirement plan that requires an employer to make contributions to a pool of funds set aside for a worker's future benefit.",
+    "plans": [
+      {
+        "name": "LIC's New Jeevan Shanti",
+        "code": "858"
+      },
+      {
+        "name": "LIC's Jeevan Akshay VII",
+        "code": "857"
+      },
+      {
+        "name": "Pradhan Mantri Vaya Vandana Yojana",
+        "code": "856"
+      }
+     ]
+  },
+  {
+    "policytype": "Micro Plans",
+    "description": "These insurance solutions provide an opportunity for every person to protect his family's future. The low premium rates make it feasible and the payment modes are convenient.",
+    "plans": [
+      {
+        "name": "LIC's Jeevan Mangal",
+        "code": "840"
+      },
+      {
+        "name": "LIC's Micro Bachat",
+        "code": "851"
+      }
+     ]
+  },
+  {
+    "policytype": "Unit Linked Plans",
+    "description": "its a plan which gives investors both insurance and investment under a single integrated plan.",
+    "plans": [
+      {
+        "name": "LIC's SIIP",
+        "code": "852"
+      },
+      {
+        "name": "LIC's Nivesh Plus",
+        "code": "849"
+      },
+      {
+        "name": "LIC's New Endowment Plus",
+        "code": "935"
+      }
+     ]
+  },
+  {
+    "policytype": "Children Plans",
+    "description": "gives investors both insurance and investment under a single integrated plan.",
+    "plans": [
+      {
+        "name": "LIC's New Children Money Back",
+        "code": "932"
+      },
+      {
+        "name": "LIC's Jeevan Tarun",
+        "code": "934"
+      }
+     ]
+  }
+]
